@@ -1,8 +1,8 @@
-# Lotus: Anti Social Media API
+# Lotus: Bare-bones social media lens to reduce attention engineering
 
 ## Background 
 
-Recent degeneration of social media leaves demand for a less monetized alternative. Lotus is a micro-blogging messaging app's backend that manages persisted information. Any user can see all of the messages posted to the site, or they can see the messages posted by a particular user. Incldes logins, registrations, message creations, message updates, and message deletions.
+Recent degeneration of social media leaves demand for a less monetized alternative. Lotus is a micro-blogging messaging app's backend that manages persisted information. Any user can see all of the messages posted to the site, or they can see the messages posted by a particular user. Includes logins, registrations, message creations, message updates, and message deletions.
 
 ## Database Tables 
 
